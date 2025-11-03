@@ -380,6 +380,6 @@ python scripts/train.py --project my-project
 
 **最后更新**: 2025-11-03
 
-**作者**: [Your Name]
+**作者**: 翟笑晨
 
 **课程**: 南京大学 - 神经网络 (2025)
