@@ -1,8 +1,3 @@
-"""
-模型评估脚本 - 实现5+个评估指标
-LLM 辅助: 本文件由 GitHub Copilot 辅助生成
-"""
-
 import os
 import cv2
 import numpy as np

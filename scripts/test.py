@@ -1,8 +1,3 @@
-"""
-模型推理和测试脚本
-LLM 辅助: 本文件由 GitHub Copilot 辅助生成
-"""
-
 import os
 import cv2
 import torch

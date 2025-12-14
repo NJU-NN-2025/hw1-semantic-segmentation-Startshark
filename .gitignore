@@ -39,15 +39,30 @@ env/
 # Dataset (根据数据集使用协议，不应上传数据集)
 dataset/
 data/
+Polar Animal.v9/
 *.jpg
 *.jpeg
 *.png
 *.bmp
+
+# LaTeX
+*.synctex.gz
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+
+# Allow specific images for documentation (WhiteList)
 !test/*.png
 !test/*.jpg
+!runs/segment/antarctic_yolo_v9/*.png
+!runs/segment/antarctic_yolo_v9/appendix_results/*.jpg
+!runs/segment/antarctic_yolo_v9/test_results/*.jpg
 
 # Models & Checkpoints
-runs/
+# runs/ (Removed to allow whitelisted images inside)
 weights/
 checkpoints/
 *.pt

@@ -1,9 +1,3 @@
-"""
-YOLO模型训练脚本
-LLM 辅助: 本文件由 GitHub Copilot 辅助生成
-适配 RTX 4060 8GB 显存
-"""
-
 import os
 import torch
 from ultralytics import YOLO
