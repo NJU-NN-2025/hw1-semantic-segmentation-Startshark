@@ -1,4 +1,4 @@
-# 南极动物语义分割项目 (Antarctic Animal Semantic Segmentation)
+# 南极动物语义分割项目
 
 本项目基于 **YOLOv8-seg** 模型，实现了对南极动物（企鹅、海鸥、海豹）的高精度语义分割。项目采用 **Roboflow** 进行精细化人工标注，并结合 **迁移学习 (Transfer Learning)** 策略，在 NVIDIA RTX 4060 (8GB) 环境下完成了从数据处理、模型训练到推理评估的全流程。
 

@@ -39,7 +39,6 @@ env/
 # Dataset (根据数据集使用协议，不应上传数据集)
 dataset/
 data/
-Polar Animal.v9/
 *.jpg
 *.jpeg
 *.png
